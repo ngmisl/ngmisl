@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngmisl
 - 👀 I’m interested in Blockchain and Crypto
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me o0crxv65@anonaddy.me & https://twitter.com/ngmisl
 - 🧵 Company Updates https://ngmisl.pinbase.app
 
