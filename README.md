@@ -7,7 +7,7 @@ Web2 company trying to work in Web3
 I’m interested in Blockchain and Crypto
 
 *   ✉️  You can contact me at [o0crxv65@anonaddy.me](mailto:o0crxv65@anonaddy.me)
-*   🚀  I'm currently working on [LensData](https://github.com/ngmisl/lensdata)
+*   🚀  I'm currently working on [Mem dot ai pythonic URL saver](https://github.com/ngmisl/memdotai-urlsaver-python)
 *   🧠  I'm learning Python, Rust, ML
 *   🤝  I'm open to collaborating on Web3 projects
 
