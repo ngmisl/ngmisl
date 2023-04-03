@@ -11,10 +11,7 @@ I’m interested in Blockchain and Crypto
 *   🧠  I'm learning Python, Rust, ML
 *   🤝  I'm open to collaborating on Web3 projects
 
-
-<a href="https://www.twitter.com/ngmisl" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/ngmisl?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+![Mastodon Follow](https://img.shields.io/mastodon/follow/108194099448364047?domain=https%3A%2F%2Fmastodon.online%2F&style=social)
 
 ### Skills
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=python,python,a6fe72;javascript,javascript,740dcd;rust,Rust,ae433c;Astro,Astro,FF5D01;&line2=FastAPI,FastAPI,009688;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=python,python,a6fe72;javascript,javascript,740dcd;rust,Rust,ae433c;Astro,Astro,FF5D01;&line2=FastAPI,FastAPI,009688;)
