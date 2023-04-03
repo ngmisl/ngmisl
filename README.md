@@ -7,7 +7,7 @@ Web2 company trying to work in Web3
 I’m interested in Blockchain and Crypto
 
 *   ✉️  You can contact me at [o0crxv65@anonaddy.me](mailto:o0crxv65@anonaddy.me)
-*   🚀  I'm currently working on [MintWorld(https://mintworldgame.com), [Cantoverse](https://cantoverse.net), [Word: Fravolity](https://fravolity.neocities.org/)
+*   🚀  I'm currently working on [MintWorld](https://mintworldgame.com), [Cantoverse](https://cantoverse.net), [Word: Fravolity](https://fravolity.neocities.org/)
 *   🧠  I'm learning Python, Rust, ML
 *   🤝  I'm open to collaborating on Web3 projects
 
