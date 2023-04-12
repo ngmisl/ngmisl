@@ -16,6 +16,9 @@ I’m interested in Blockchain and Crypto
                   src="https://img.shields.io/mastodon/follow/108194099448364047?domain=https%3A%2F%2Fmastodon.online%2F&style=social"
                 /></a>
 
+### Hackathons
+04/23: [MintWorld](https://mintworldgame.com) Winner NFT Category at the Canto Hackathon Chapter 1 Season 6 [Read More](https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU)
+
 ### Skills
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=python,python,a6fe72;javascript,javascript,740dcd;rust,Rust,ae433c;Astro,Astro,FF5D01;&line2=FastAPI,FastAPI,009688;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=python,python,a6fe72;javascript,javascript,740dcd;rust,Rust,ae433c;Astro,Astro,FF5D01;&line2=FastAPI,FastAPI,009688;)
                     
