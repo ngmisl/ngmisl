@@ -18,6 +18,7 @@ I’m interested in Blockchain and Crypto
 
 ### Finished Projects
 23: [Word: Fravolity](https://fravolity.neocities.org/)
+
 23: [Does This Email Exist?](https://github.com/ngmisl/mailchecker)
 
 ### Hackathons
