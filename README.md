@@ -7,7 +7,7 @@ Web2 company trying to work in Web3
 I’m interested in Blockchain and Crypto
 
 *   ✉️  You can contact me at [o0crxv65@anonaddy.me](mailto:o0crxv65@anonaddy.me)
-*   🚀  I'm currently working on [MintWorld](https://mintworldgame.com), [Cantoverse](https://cantoverse.net), [Word: Fravolity](https://fravolity.neocities.org/), [Does This Email Exist?](https://github.com/ngmisl/mailchecker)
+*   🚀  I'm currently working on [MintWorld](https://mintworldgame.com), [Cantoverse](https://cantoverse.net)
 *   🧠  I'm learning Python, Rust, ML
 *   🤝  I'm open to collaborating on Web3 projects
 
@@ -15,6 +15,10 @@ I’m interested in Blockchain and Crypto
 <a href="https://elk.zone/mastodon.online/@ngmi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/mastodon/follow/108194099448364047?domain=https%3A%2F%2Fmastodon.online%2F&style=social"
                 /></a>
+
+### Finished Projects
+23: [Word: Fravolity](https://fravolity.neocities.org/)
+23: [Does This Email Exist?](https://github.com/ngmisl/mailchecker)
 
 ### Hackathons
 04/23: [MintWorld](https://mintworldgame.com) Winner NFT Category at the Canto Hackathon Chapter 1 Season 6 [Read More](https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU)
