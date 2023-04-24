@@ -19,6 +19,8 @@ I’m interested in Blockchain and Crypto
 ### Finished Projects
 * 23: [Word: Fravolity](https://fravolity.neocities.org/)
 * 23: [Does This Email Exist?](https://github.com/ngmisl/mailchecker)
+* 23: [Snapshot Tool](https://github.com/ngmisl/snapshot_tool)
+* 23: [Ai and Crypto news Summarizer](https://github.com/ngmisl/streamlit-cryptonews)
 
 ### Hackathons
 * 04/23: [MintWorld](https://mintworldgame.com) Winner NFT Category at the Canto Hackathon Chapter 1 Season 6 [Read More](https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU)
