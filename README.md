@@ -25,6 +25,7 @@ I’m interested in Blockchain and Crypto
 * 23: [Ai and Crypto news Summarizer](https://github.com/ngmisl/streamlit-cryptonews)
 
 ### Hackathons
+* 07/23: EthGlobal Paris: Web3 Game [Minotaur](https://ethglobal.com/showcase/minotaur-m7j9u) 🏆 Filecoin — Grand Prize, 👾 Mantle — Best NFT or Gaming
 * 04/23: [MintWorld](https://mintworldgame.com) Winner NFT Category at the Canto Hackathon Chapter 1 Season 6 [Read More](https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU)
 
 ### Skills
