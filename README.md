@@ -18,15 +18,16 @@ I’m interested in Blockchain and Crypto
                   src="https://img.shields.io/badge/bsky-Follow-blue"
                 /></a>
 
+
+### Hackathons
+* 07/23: EthGlobal Paris: Web3 Game [Minotaur](https://ethglobal.com/showcase/minotaur-m7j9u) 🏆 Filecoin — Grand Prize, 👾 Mantle — Best NFT or Gaming
+* 04/23: [MintWorld](https://mintworldgame.com) Winner NFT Category at the Canto Hackathon Chapter 1 Season 6 [Read More](https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU)
+
 ### Finished Projects
 * 23: [Word: Fravolity](https://fravolity.neocities.org/)
 * 23: [Does This Email Exist?](https://github.com/ngmisl/mailchecker)
 * 23: [Snapshot Tool](https://github.com/ngmisl/snapshot_tool)
 * 23: [Ai and Crypto news Summarizer](https://github.com/ngmisl/streamlit-cryptonews)
-
-### Hackathons
-* 07/23: EthGlobal Paris: Web3 Game [Minotaur](https://ethglobal.com/showcase/minotaur-m7j9u) 🏆 Filecoin — Grand Prize, 👾 Mantle — Best NFT or Gaming
-* 04/23: [MintWorld](https://mintworldgame.com) Winner NFT Category at the Canto Hackathon Chapter 1 Season 6 [Read More](https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU)
 
 ### Skills
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=python,python,a6fe72;javascript,javascript,740dcd;rust,Rust,ae433c;Astro,Astro,FF5D01;&line2=FastAPI,FastAPI,009688;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=python,python,a6fe72;javascript,javascript,740dcd;rust,Rust,ae433c;Astro,Astro,FF5D01;&line2=FastAPI,FastAPI,009688;)
