@@ -20,6 +20,7 @@ I’m interested in Blockchain and Crypto
 
 
 ### Hackathons
+* 09/24: #1 Social x AI Galadriel at ETHOnline hackathon
 * 03/24: Tako Farcaster Frame Hackathon: Won 3rd in Best Frame Usecase
 * 07/23: EthGlobal Paris: Web3 Game [Minotaur](https://ethglobal.com/showcase/minotaur-m7j9u) 🏆 Filecoin — Grand Prize, 👾 Mantle — Best NFT or Gaming [Read More...](https://mirror.xyz/metaend.eth/FSm2P6KWwRDYc4Kp3Qxdvlcu0irO0fuDcgmXMP0_XJk)
 * 04/23: [MintWorld](https://mintworldgame.com) Winner NFT Category at the Canto Hackathon Chapter 1 Season 6 [Read More](https://mirror.xyz/0x0199008e3A1c6f2011bE861B6A1cB01d2B264d43/D724sfGa3VmrF3gq0HdillNfYBGqcSMDBidpDTw0SpU)
