@@ -12,9 +12,7 @@ I’m interested in Blockchain and Crypto
 *   🤝  I'm open to collaborating on Web3 projects
 
 
-<a href="https://elk.zone/mastodon.online/@ngmi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/mastodon/follow/108194099448364047?domain=https%3A%2F%2Fmastodon.online%2F&style=social"
-                /></a> <a href="https://bsky.app/profile/ngmi.ai" target="_blank" rel="noreferrer"><img
+<a href="https://bsky.app/profile/ngmi.ai" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/badge/bsky-Follow-blue"
                 /></a>
 
